@@ -1,6 +1,1 @@
 today is 2018.12.13
-<<<<<<< HEAD
-fix in testa
-=======
-testq fix
->>>>>>> testq
